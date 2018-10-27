@@ -1,7 +1,7 @@
 # github 명령어 정리
 ## 1. 설정과 초기화
 #### 전역 사용자명/이메일 구성하기 
-* >`git config - -global user.name"Your name"`
+* >git config - -global user.name"Your name"
 * >`git config - -global user.email"Your email address"`
 ## 2. 저장소 만들기
 #### 기존 프로젝트를 git저장소로 만드는 방법
@@ -37,3 +37,7 @@
 * >`git log -1`
 #### 두 지점 사이의 커밋 로그 보기
 * >`git log<시작 지점>...<끝 지점>`
+
+# MarkDown 문법
+## 제목 Headers
+* >
